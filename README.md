@@ -1,5 +1,7 @@
 # Run From Me - Mini Java Adventure Game
 
+![Run From Me - Maze](./docs/maze.png)
+
 ## Overview
 
 "Run From Me" is a mini Java game where you guide a character through a maze-like map. You control a character, the blue ball, which responds to your mouse's position.
